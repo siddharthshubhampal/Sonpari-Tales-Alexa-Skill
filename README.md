@@ -19,7 +19,7 @@ Yes
 Yes
 	>> ...Na-na! It's a bad thing. Promise me the you won't tell a lie.
 Promise
-  >> ...Here is your story,..... Come back tomorrow for new story, Bye!
+ 	>> ...Here is your story,..... Come back tomorrow for new story, Bye!
 ...
 ```
 
