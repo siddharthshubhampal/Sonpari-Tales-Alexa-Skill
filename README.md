@@ -13,7 +13,7 @@ If kid promises, Sonpari plays story else It says- 'I don't talk with bad kids. 
 
 ```text
 Alexa, open Sonpri Tales
-	>> Welcome, I am sonpari. I tell new stories everyday to <emphasis level='reduced'>good children</emphasis>. I'll ask you a question to check whether you a good kid or not. Are you ready?
+	>> Welcome, I am sonpari. I tell new stories everyday to good children. I'll ask you a question to check whether you a good kid or not. Are you ready?
 Yes
 	>> ...Here is today's question for you, Do you think should we lie?
 Yes
