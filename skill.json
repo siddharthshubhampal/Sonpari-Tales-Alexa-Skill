@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-IN": {
+          "summary": "I am Sonpari. I tell new stories every day. Kids love me.",
+          "examplePhrases": [
+            "Alexa, open sonpari tales",
+          ],
+          "name": "Sonpari Tales",
+          "description": "I am Sonpari. I tell new stories every day. But I talk with only good kids. I ask them questions and tell new stories every day. This skill helps to develop basic moral values in children.  E.g. It can tell kids that we should not tell a lie etc."
+        }
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
